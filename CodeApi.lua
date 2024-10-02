@@ -1,0 +1,27 @@
+local Code = {
+    "EARN_FRUITS",
+    "FIGHT4FRUIT",
+    "NOEXPLOIT",
+    "NOOB2ADMIN",
+    "ADMINDARES",
+    "Sub2CaptainMaui",
+    "kittgaming",
+    "Sub2Fer999",
+    "Enyu_is_Pro",
+    "Magicbus",
+    "JCWK",
+    "Starcodeheo",
+    "Bluxxy",
+    "fudd10_v2",
+    "FUDD10",
+    "BIGNEWS",
+    "THEGREATACE",
+    "SUB2GAMERROBOT_EXP1",
+    "Sub2OfficialNoobie",
+    "StrawHatMaine",
+    "SUB2NOOBMASTER123",
+    "Sub2Daigrock",
+    "Axiore",
+    "TantaiGaming"
+}
+return Code
